@@ -1,6 +1,8 @@
+# package if you want make an import
+
 def main():
     x = int(input('what is the value of x'))
-    print("x squard is ", square(x))
+    
 
   
  
